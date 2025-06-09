@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm Alchemist, also known as "gunsgamertv" or "Mr_Alchemy" 
+# 👋 Hey there, I'm Alchemist, also known as "gunsgamertv" or "Mr_Alchemy" or even as "MasterChief"
 
 ## 💡 About Me  
 - 🎓 Student & Passionate Learner  
@@ -9,6 +9,7 @@
 - 🔹 **Lua (Luau)** – Advanced
 - 🔹 **Python** – Basics
 - 🔹 **JavaScript** – Basics
+- 🔹 **TypeScript** – Basics
 - 🔹 **HTML/CSS** – Basics
 - 🔹 **Batch** – Basics
 

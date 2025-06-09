@@ -4,6 +4,7 @@
 - 🎓 Student & Passionate Learner  
 - 💻 Love Programming & Experimenting  
 - 🚀 Always Curious to See What Happens
+- 👨‍🎓 German Student
 
 ## 🖥️ My Tech Stack  
 - 🔹 **Lua (Luau)** – Advanced
